@@ -14,7 +14,7 @@ Here are a few XKCD comics in opencomic format:
 
 ```
 {
-  "version": "https://opencomic.org/v1.0.html",
+  "version": "https://opencomic.org/v1.0",
   "title": "XKCD",
   "home_url": "https://xkcd.com",
   "description": "A webcomic of romance, sarcasm, math, and language.",
